@@ -72,7 +72,8 @@ JobFinder/
 ## Setup
 
 1. Create and activate a Python environment.
-2. Install dependencies:
+2. Create ```jobfinder.db``` file in the root folder
+3. Install dependencies:
 
 ```bash
 pip install streamlit pandas pymupdf sentence-transformers scikit-learn jobspy
