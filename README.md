@@ -56,7 +56,6 @@ JobFinder/
 │   └── ui.py
 ├── resume_reader.py
 ├── scraper.py
-└── raw_jobs_tunis.csv
 ```
 
 ## Tech stack
@@ -106,6 +105,7 @@ It stores:
 
 ## Notes
 
+- JobSpy didn't include **Tunisia**, Package Code has been modded to included 
 - Job availability depends on what JobSpy currently supports for each source and country.
 - Public scraping results can vary over time.
 - For best results, use a resume PDF with readable text, not a scanned image.
@@ -122,16 +122,6 @@ This project demonstrates:
 - local persistence
 - modular application design
 
-That makes it a good portfolio project for data engineering, analytics engineering, or AI-assisted job matching work.
-
-## Future improvements
-
-- Dockerize the app
-- Add charts for skill demand trends
-- Add export of history and logs
-- Add scheduled ingestion
-- Add a cloud deployment option
-- Add automated tests
 
 ## License
 
