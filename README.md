@@ -111,8 +111,6 @@ It stores:
 - Public scraping results can vary over time.
 - For best results, use a resume PDF with readable text, not a scanned image.
 
-## Why this project is useful
-
 This project demonstrates:
 
 - document ingestion
